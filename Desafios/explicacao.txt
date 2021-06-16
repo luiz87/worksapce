@@ -1,0 +1,22 @@
+﻿Desafios:
+01:Ordenar Números
+  Entrada > "Digite 1 número"
+  Entrada > "Digite 1 número"
+  Entrada > "Digite 1 número"
+  Saída   > "Os número em ordem crescente: ? ? ?"
+  
+02:Game Pedra/Papel/Tesoura
+  Entrada
+  "Escolher entre as opções [pedra,papel,tesoura]"
+  ---
+  Saída (enquanto resposta = sim)
+  Eu(??) X Pc(??)
+  Resultado: ?? 
+  Jogar Novamente?
+  Escolher entre: [Sim,Não]
+  ---
+  Saída (quando resposta = não)
+  Placar Final
+  Vitórias: ??
+  Derrotas: ??
+  Empate: ??
